@@ -1,4 +1,4 @@
-#include "../include/gnuradio-4.0/dashboard_blocks/imGUI_management.hpp"
+#include "../include/gnuradio-4.0/dashBoard_blocks/imGUI_management.hpp"
 #include <map>
 #include <fstream>
 #include <nlohmann/json.hpp>
