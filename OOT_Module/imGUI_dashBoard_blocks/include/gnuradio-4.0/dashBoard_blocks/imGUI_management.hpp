@@ -28,7 +28,7 @@ namespace gr::dashboard_blocks {
         std::mutex registry_mutex;
         
         //Path to location where the dashBoard_daemon.cpp exists
-        std::string dashBoard_daemon_path = "dashboard_daemon";
+        std::string dashBoard_daemon_path = "dashBoard_daemon";
 
         //Path to location where config file should be stored
         std::string config_file_path = "/tmp/gr4_dashboard_config.json";
